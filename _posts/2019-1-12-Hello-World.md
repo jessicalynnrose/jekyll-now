@@ -1,6 +1,4 @@
 ---
 layout: post
-title: Week 1- January 7, 2019
+title: Week 1- My first blog post!
 ---
-
-My First blog post!
