@@ -9,7 +9,7 @@ name: Intro to R Programming
 description: Jessica Rose ~ USF LIS 5937 ~ Spring 2019
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/Capture.PNG
+avatar: [<img src="/images/Capture.PNG" alt="DNA" class = "center"].center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
 
 #
 # Flags below are optional
