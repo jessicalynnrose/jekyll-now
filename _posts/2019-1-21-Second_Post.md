@@ -21,7 +21,8 @@ Evaluation:
 
 This function appears to find the mean of a vector of data by taking the sum of 'assignment' and divides in by the length of 'someData'. The first thing I did was simply create the function and try to run it with the data set given. I received this error when doing so:
 
-![firsttry] firsttry.PNG
+![][firsttry]
+[firsttry]: /images/firsttry.PNG
 
 After receiving this error message, I reviewed the function. The first problem I see is that the parameter for the function (argument2) is not referenced later anywhere in the function. Also, there are two variables that are not previously defined anywhere (assignment and someData) that are being manipulated in this function.
 
