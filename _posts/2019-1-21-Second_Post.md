@@ -21,11 +21,10 @@ Evaluation:
 
 This function appears to find the mean of a vector of data by taking the sum of 'assignment' and divides in by the length of 'someData'. The first thing I did was simply create the function and try to run it with the data set given. I received this error when doing so:
 
-![][firsttry]
-[firsttry]: /images/firsttry.PNG
+![][http://gdurl.com/fASN]
 
 After receiving this error message, I reviewed the function. The first problem I see is that the parameter for the function (argument2) is not referenced later anywhere in the function. Also, there are two variables that are not previously defined anywhere (assignment and someData) that are being manipulated in this function.
 
 Some changes I would make to rewrite this function would be changing the argument of the function from argument2 to argument and defining someData to what the length of sum of argument needs to be divided by. The result of my suggested corrections are shown below:
 
-![correctedfunction] /images/corrected.PNG
+![][http://gdurl.com/btxD]
