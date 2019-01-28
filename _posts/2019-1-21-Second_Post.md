@@ -2,11 +2,10 @@
 layout: post
 title: Week Two!
 ---
+During the first week of class, we were introduced to open source software, the history of R, object oriented programming, R packages and GitHub.
 
-----
-****
 
-During the first week of class, we were introduced to open source software, the history of R, object oriented programming, R packages and GitHub. Next we started learning about different data types in R and how to write basic functions. This was supplemented with reading about the stages of a package and vectors.
+In addition to a general introduction to R, we started learning about different data types in R and how to write basic functions. This was supplemented with reading about the stages of a package and vectors.
 
 This week's assignment is to evaluate the following function:
 
