@@ -9,11 +9,11 @@ In addition to a general introduction to R, we started learning about different 
 
 This week's assignment is to evaluate the following function:
 
-'myMean <- function(assignment2) { return(sum(assignment)/length(someData)) }'
+`myMean <- function(assignment2) { return(sum(assignment)/length(someData)) }`
 
 The data to evaluate this function can be found below:
 
-'assignment2 <- c(16,18,14,22,27,17,19,17,17,22,20,22)'
+`assignment2 <- c(16,18,14,22,27,17,19,17,17,22,20,22)`
 
 
 Evaluation:
