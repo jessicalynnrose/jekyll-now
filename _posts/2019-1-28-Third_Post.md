@@ -2,7 +2,7 @@
 layout: post
 title: Week Three!
 ---
-This weeks' lectures and videos focused on learning in depth about matrices, arrays, lists and data frames.
+This week's lectures and videos focused on learning in depth about matrices, arrays, lists and data frames.
 
 
 Our assignment for this week was to use some manufactured election poll results and evaluate different statistics analysis used on the data set. First we define the variables, names, ABCpollresults, and CBSpoll results.
