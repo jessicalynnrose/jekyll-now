@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Two!
+title: Week Two- Our First Function
 ---
 During the first week of class, we were introduced to open source software, the history of R, object oriented programming, R packages and GitHub.
 

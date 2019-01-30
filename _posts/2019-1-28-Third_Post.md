@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Three!
+title: Week Three- Let's make a data frame
 ---
 This week's lectures and videos focused on learning in depth about matrices, arrays, lists and data frames.
 
