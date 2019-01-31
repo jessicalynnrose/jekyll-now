@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Jessica and I am studying for my Master's in Computational Biology and Bioinformatics. I got my Bachelor's in Chemistry prior to starting my graduate program. The only formal programming class I have taken was MATLAB. I have recently started learning Python on my own as well as taking an Intro to R Programming class this semester. This blog will document my progress during Intro to R. Throughout the course of this semester I hope to develop my programming skills to help with my future career in Bioinformatics. Thanks for reading and feel free to email me if you have any questions!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jessicarose@mail.usf.edu](mailto:jessicarose@mail.usf.edu)
