@@ -8,4 +8,4 @@ My name is Jessica and I am studying for my Master's in Computational Biology an
 
 ### Contact me
 
-[jessicarose@mail.usf.edu](mailto:jessicarose@mail.usf.edu)
+[jessicarose[AT]mail[DOT]usf[DOT]edu](mailto:jessicarose@mail.usf.edu)
