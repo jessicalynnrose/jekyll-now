@@ -29,3 +29,10 @@ The image below contains a similar histogram for the top left and the rest are f
 The code for all of this can be found on [my github.](https://github.com/jessicalynnrose/Intro_to_R_Spring_2019/blob/master/week4.R)
 
 I decided to take this evaluation one step further and I am working on writing some code that will evaluate if either or both of the first two doctors evaluations can be used to predict the final doctor's decision and should have that added by the end of the day!
+
+UPDATE:
+Using the information we learned in this lesson on if statements and Boolean logic I wrote some if statements that analyzes the evaluations of each of the first two doctors and compares that to the evaluation of the final doctor to see if either or both can be used to predict the final doctor evaluation. The code can be found on my github [here](https://github.com/jessicalynnrose/Intro_to_R_Spring_2019/blob/master/week4pt2.R)
+
+The idea was to create a new column in patientdata for each different prediction we wanted to study, then if the two evaluations were the same for a patient, the new column would contain TRUE. If they were not the same the new column would contain FALSE for that patient.
+
+Our final conclusion from the code determined that the first doctor evaluation's are the same as the final doctor **50%** of the time. The second doctor has the same evaluation as the final doctor **60%** of the time. Finally the percentage of times the first two doctors both give the same evaluation as the final doctor is only **30%** of the time.
