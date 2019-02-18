@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Five- More Matrix Math with R
+title: Week Six- More Matrix Math with R
 ---
 
 This week we learned more about math you can do with matrices in R. We were also introduced to object-oriented programming with R, classes and reading and writing files.
