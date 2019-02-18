@@ -8,13 +8,16 @@ This week we learned more about math you can do with matrices in R. We were also
 For our assignment this week we were asked to do some simple matrix math with R and then use the diag() function to make some unique matrices! Let's get started!
 
 First, we need to create two matrices for us to work with:
+
 `a <- matrix(c(2,0,1,3),ncol=2)`
+
 `b <- matrix(c(5,2,4,-1),ncol=2)`
 
 ![](https://i.imgur.com/TvCn1sf.png)
 
 Now we will do some simple math with these
 `c <- a + b`
+
 `d <- a - b`
 
 This gives us two new matrices:
