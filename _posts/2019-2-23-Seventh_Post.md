@@ -44,9 +44,9 @@ With this information, the question can be answered rather simply. Generic funct
 
 ### 4. What are the main differences between S3 and S4?
 
-{:class="table"}
 | S3     | S4     |
 |:------:|:------:|
 | lacks formal definition | defined using `setClass()` function|
 | objects are created by setting the class attribute| objects are created using `new()` function|
 | methods below to generic functions| methods belong to generic functions|
+{:.table}
