@@ -44,6 +44,7 @@ With this information, the question can be answered rather simply. Generic funct
 
 ### 4. What are the main differences between S3 and S4?
 
+{:class="table"}
 | S3     | S4     |
 |:------:|:------:|
 | lacks formal definition | defined using `setClass()` function|
