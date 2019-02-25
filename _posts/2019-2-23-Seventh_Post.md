@@ -12,14 +12,20 @@ Our assignment this week was to first load data into R. For this, I chose the fa
 `train <- read.csv("train.csv")
 
 str(train)
+
 summary(train)
+
 head(train)`
 
 Now that we have some information on what the dataset contains, we can get started on the rest of this weeks assignment.
 
-////Next, we are asked to determine if a generic function can be assigned to our data set.
+Next, we are asked to determine if a generic function can be assigned to our data set.
 
-////Finally, we need to see if our dataset can be assigned as an S3 or an s4 object.
+This can be done by writing our own function with `genericfunction.classname <- function() {}` and adding anything you want this specific function to do when called. Now, whenever the generic function is called for and object of the specific class name, then it will do the defined function rather than the generic function.
+
+Finally, we need to see if our dataset can be assigned as an S3 or an s4 object.
+
+For this dataset, it would be much simpler to assign it as an S3 object, which would simply be done using the `class()` function.
 
 ### 1. How do you tell what OO system (S3 vs S4) an object is associated with?
 
@@ -27,9 +33,7 @@ A quick way to tell what class an object has is by using the `isS4()` function. 
 
 ### 2. How do you determine the base type (i.e. integer or list) of an object?
 
-The easiest way to determine what type any object is in R is to use the generic function typeof(). It takes any R object in put and will return what that object is in R. A few examples can be seen below with our dataset.
-
-////![](www)
+The easiest way to determine what type any object is in R is to use the generic function typeof(). It takes any R object in put and will return what that object is in R.
 
 ### 3. What is a generic function?
 
@@ -44,9 +48,14 @@ With this information, the question can be answered rather simply. Generic funct
 
 ### 4. What are the main differences between S3 and S4?
 
-| S3     | S4     |
-|:------:|:------:|
-| lacks formal definition | defined using `setClass()` function|
-| objects are created by setting the class attribute| objects are created using `new()` function|
-| methods below to generic functions| methods belong to generic functions|
-{:.table}
+#### S3
+
++ lacks formal definition
++ objects are created by setting the class attribute
++ methods belong to generic functions
+
+#### S4
+
++ defined using `setClass()` function
++ objects are created using `new()` functions
++ methods belong to generic functions
