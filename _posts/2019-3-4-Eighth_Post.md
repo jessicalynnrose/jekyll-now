@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Seven- Objects!
+title: Week Eight- Strings, Input and More
 ---
 
 With everything we've been learning in this class, I've never felt the saying "The more you know, the more you don't know." could be more true. There are a lot of packages available, to do almost anything! Excited to use more as we complete our assignments every week!
