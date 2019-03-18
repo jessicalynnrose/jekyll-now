@@ -7,4 +7,4 @@ With a little over a month left in the course, it is time to start thinking abou
 
 For now, we are practicing writing a DESCRIPTION file for the package. This contains information like what the package does, who created/maintains it and license along with other information. This is a very important file as it contains helpful information for others who may wish to use your package in the future.
 
-My DESCRIPTION file example can be found [here](https://github.com/jessicalynnrose/Intro_to_R_Spring_2019/new/master) on my GitHub.
+My DESCRIPTION file example can be found [here](https://github.com/jessicalynnrose/Intro_to_R_Spring_2019/blob/master/DESCRIPTIONexample) on my GitHub.
