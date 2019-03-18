@@ -42,3 +42,5 @@ Now that I have all this information, I can start to ask some questions!
 3. Could the thickness of the tumor impact survival status?
 
 ![](https://imgur.com/BB2F0wd)
+
+These are just a couple of examples of plots we can make with ggplot2 to provide insight on the data set. All my code can be found [here](https://github.com/jessicalynnrose/Intro_to_R_Spring_2019/blob/master/week9.R)!
