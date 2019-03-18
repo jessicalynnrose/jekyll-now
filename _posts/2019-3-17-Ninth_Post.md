@@ -27,20 +27,20 @@ head(week9data)`
 
 Now that I have a good understanding of the values for each observation, we need to think about what relationships would be the most useful to find out. Obviously we are interested in anything that could provide insight on a factor that correlates to a higher than average instance of patient status being 2(survived). The graph below shows the status plotted for all patients.
 
-![](https://imgur.com/7KrCyj8)
+![](https://i.imgur.com/7KrCyj8.png)
 
 Now that I have all this information, I can start to ask some questions!
 
 1. Could sex of patient impact survival status?
 
-![](https://imgur.com/b4MU4oz)
+![](https://i.imgur.com/b4MU4oz.png)
 
 2. Could presence of an ulcer impact survival status?
 
-![](https://imgur.com/yiBekBM)
+![](https://i.imgur.com/yiBekBM.png)
 
 3. Could the thickness of the tumor impact survival status?
 
-![](https://imgur.com/BB2F0wd)
+![](https://i.imgur.com/BB2F0wd.png)
 
 These are just a couple of examples of plots we can make with ggplot2 to provide insight on the data set. All my code can be found [here](https://github.com/jessicalynnrose/Intro_to_R_Spring_2019/blob/master/week9.R)!
